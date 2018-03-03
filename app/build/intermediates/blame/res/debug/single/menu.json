@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jonathan/Downloads/SpeechToText1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/jonathan/Downloads/SpeechToText1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/jonathan/Jonathan/Workspace/marlin/kitty/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/jonathan/Jonathan/Workspace/marlin/kitty/app/src/main/res/menu/main.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jonathan/Jonathan/Workspace/marlin/kitty/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cat_bot.png",
+        "source": "/home/jonathan/Jonathan/Workspace/marlin/kitty/app/src/main/res/drawable-mdpi/cat_bot.png"
+    },
+    {
+        "merged": "/home/jonathan/Downloads/SpeechToText1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ico_mic.png",
+        "source": "/home/jonathan/Downloads/SpeechToText1/app/src/main/res/drawable-mdpi/ico_mic.png"
+    },
+    {
+        "merged": "/home/jonathan/Downloads/SpeechToText1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/jonathan/Downloads/SpeechToText1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
